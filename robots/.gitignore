@@ -1,0 +1,5 @@
+node_modules/
+npm-debug.log
+
+robots/**/*.js.pdf
+robots/**/*.js.json
